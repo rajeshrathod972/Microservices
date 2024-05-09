@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cloud-gateway
+
+
+
+server:
+  port: 9191
